@@ -1,22 +1,18 @@
-### Hi there 👋
+<h1 align="center"> Hi! I'm Navodya <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
 
-<!--
-**Jamal2IA/Jamal2IA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Navodya Pasqual, a passionate Software Engineering student 💻.
 
-Here are some ideas to get you started:
+<!-- TODO: Add last video link -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
-</p>
+- :seedling: I’m currently learning about TypeScript.
+- :computer: Most used line of code `git commit -m "Initial Commit"`.
+- 🤔 I’m looking for an internship.
+- :speech_balloon: Ask me about anything.
+- 😄 Pronouns: She/Her.
+
+🤝 &nbsp; Connect with Me
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/navodya-pasqual-11ba801b1/)
+<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+
+<hr>
