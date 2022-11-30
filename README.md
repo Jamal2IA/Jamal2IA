@@ -20,8 +20,4 @@ I'm Jamal Rebii, a passionate Artificial intelligence Engineer 🧠.
 
 📫 rebiijamal1@gmail.com
 
-🌐 [Jamal Rebii](https://jamal-ai.vercel.app/) 
-
-![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=sarah-hart-landolt&show_icons=true&theme=radical)
-
-![github stats](https://github-readme-stats.vercel.app/api?username=sarah-hart-landolt&show_icons=true&theme=radical)
+🌐 [Jamal Rebii](https://jamal-ai.vercel.app/)  
