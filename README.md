@@ -1,14 +1,13 @@
 <h1 align="center"> Hi! I'm Navodya <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
 
-I'm Navodya Pasqual, a passionate Software Engineering student 💻.
+I'm Jamal Rebii, a passionate Artificial intelligence Engineer 🧠.
 
 <!-- TODO: Add last video link -->
 
-- :seedling: I’m currently learning about TypeScript.
-- :computer: Most used line of code `git commit -m "Initial Commit"`.
+- 🌱 I’m currently working on a youtube channel.
+- 📰: Most prefered paper "Attention is all you need".
 - 🤔 I’m looking for an internship.
-- :speech_balloon: Ask me about anything.
-- 😄 Pronouns: She/Her.
+- 💬 Ask me about anything. 
 
 🤝 &nbsp; Connect with Me
 
