@@ -8,6 +8,7 @@ I'm Jamal Rebii, a passionate Artificial intelligence Engineer 🧠.
 - 🤔 I’m looking for an internship.
 - 📰 Most prefered paper "Attention is all you need".
 - ❤️ I love reinforcement learning.
+- ❤️ I love self supervised learning.
 - 🌱 I’m currently learning meditation. 
 
 
