@@ -1,7 +1,7 @@
 
 <img src="https://github.com/Jamal2IA/Jamal2IA/blob/main/github%20background.png" alt="banner that says Sarah hart Landolt - software developer, artist, designer">
 
-I'm Jamal Rebii, a passionate Artificial intelligence Engineer 🧠.
+I'm Jamal Rebii, a passionate Artificial intelligence Student 🧠.
 
 <!-- TODO: Add last video link -->
 
