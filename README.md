@@ -5,7 +5,7 @@ I'm Jamal Rebii, a passionate Artificial intelligence Student 🧠.
 
 <!-- TODO: Add last video link -->
 
-- 🤔 I’m looking for an internship.
+<!-- - 🤔 I’m looking for an internship. -->
 - 📰 Most prefered paper "Attention is all you need".
 - ❤️ I love reinforcement learning.
 - ❤️ I love self supervised learning.
